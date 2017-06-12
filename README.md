@@ -1,4 +1,4 @@
-# 3D-Pong
+# 3D Pong
 
 
 A game totally made with Unity.
