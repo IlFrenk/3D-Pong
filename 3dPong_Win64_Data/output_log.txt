@@ -23,9 +23,9 @@ Platform assembly: C:\Users\Frenk\Documents\Programs\UnityProjects\Progetto Real
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 79.084571 ms
+UnloadTime: 1.761432 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 19f4 -> priority: 1 
-  Thread -> id: 181c -> priority: 1 
-  Thread -> id: 4d4 -> priority: 1 
-  Thread -> id: 1b6c -> priority: 1 
+  Thread -> id: 2bc8 -> priority: 1 
+  Thread -> id: 2dbc -> priority: 1 
+  Thread -> id: c20 -> priority: 1 
+  Thread -> id: 23c0 -> priority: 1 
