@@ -13,3 +13,4 @@ _Currently known bugs_:
         Camera movement in Cheat Mode  
         Jump makes the player fly (not necessarily a bug, because you can jump in Cheat Mode only)  
         Jump force conserves on respawn  
+        Kinda lag on camera movement  
