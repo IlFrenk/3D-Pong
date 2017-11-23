@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b429049a5c2cd2040b6dd33703a23fe7
+timeCreated: 1496680970
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Toy Castle
+  fontNames:
+  - The Toy Castle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
